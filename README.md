@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi its Tim Sassmannshausen 👋
 
-<!--
-**tims23/tims23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am …
+- 🔭 currently working as an iOS-engineer and
+- ⚡ privately oganizing **HackFrank**, Frankfurt's biggest hackathon — [hackfrank.de](https://hackfrank.de)
+- 🌱 while creating side projects
 
-Here are some ideas to get you started:
+-> 📂 This is also an archive of of old university projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+
+![Tech](https://skillicons.dev/icons?i=swift,typescript,python,react,nodejs,mongodb,supabase,firebase)
+
+
+## Contributions
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tims23/tims23/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tims23/tims23/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tims23/tims23/output/pacman-contribution-graph.svg">
+</picture>
