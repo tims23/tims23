@@ -1,6 +1,6 @@
 ## Hi its Tim Sassmannshausen 👋
 
-I am …
+I am
 - 🔭 currently working as an iOS-engineer and
 - ⚡ privately oganizing **HackFrank**, Frankfurt's biggest hackathon — [hackfrank.de](https://hackfrank.de)
 - 🌱 while creating side projects
