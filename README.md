@@ -1,14 +1,12 @@
 ## Hi its Tim Sassmannshausen 👋
 
-I am
-- 🔭 currently working as an iOS-engineer and
-- 🌱 creating side projects
-
--> 📂 This is also an archive of of old university projects
+Currently interested in 
+- [BiBu Crashkurse](https://bibu-crashkurse.de)
+- [Gedonus](https://gedonus.com)
 
 ## Tech
 
-![Tech](https://skillicons.dev/icons?i=swift,typescript,python,react,nodejs,mongodb,supabase,firebase)
+![Tech](https://skillicons.dev/icons?i=swift,python,react,nodejs,mongodb,supabase)
 
 
 ## Contributions
