@@ -2,8 +2,7 @@
 
 I am
 - 🔭 currently working as an iOS-engineer and
-- ⚡ privately oganizing **HackFrank**, Frankfurt's biggest hackathon — [hackfrank.de](https://hackfrank.de)
-- 🌱 while creating side projects
+- 🌱 creating side projects
 
 -> 📂 This is also an archive of of old university projects
 
